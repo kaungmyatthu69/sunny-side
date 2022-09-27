@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:ital,opsz,wght@0,9..144,900;1,9..144,700&display=swap');
+$font-family-sans-serif:'Barlow','Fraunces';
+
+
+$btn-border-radius:20px;
+
+
+
+
+
+@import"../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+h2,h4,a{
+    font-family: 'Fraunces';
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
+.headertext{
+    letter-spacing: 7px;
+}
